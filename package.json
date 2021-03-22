@@ -3,5 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
-  "description": ""
+  "description": "A package to use commom components in React",
+  "homepage": "https://github.com/codewaft/copilot-ui",
+  "keywords": ["copilot", "common", "components", "react", "framework"]
 }
